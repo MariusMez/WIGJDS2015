@@ -94,7 +94,7 @@ Se déroule exclusivement autour de l'espace commerçant de Saint Philippe</Syst
 </Wherigo:WigoCoordinate>
 </StartingLocation>
 <Version>
-<System:String>1.3</System:String>
+<System:String>1.4</System:String>
 </Version>
 <Company>
 <System:String>Jeux de Sophia</System:String>
@@ -106,7 +106,7 @@ Se déroule exclusivement autour de l'espace commerçant de Saint Philippe</Syst
 <System:DateTime>04/27/2015 10:30:07</System:DateTime>
 </CreateDate>
 <UpdateDate>
-<System:DateTime>04/30/2015 19:10:47</System:DateTime>
+<System:DateTime>05/12/2015 11:31:49</System:DateTime>
 </UpdateDate>
 <Complete>
 <System:Boolean>False</System:Boolean>
@@ -2506,7 +2506,7 @@ Se déroule exclusivement autour de l'espace commerçant de Saint Philippe</Syst
 <Wherigo:WigoInputType>Number</Wherigo:WigoInputType>
 </InputType>
 <Choices>
-<System:String>1234</System:String>
+<System:String>9876</System:String>
 </Choices>
 <GetInputAction>
 <Actions:EventAction>
@@ -3074,6 +3074,42 @@ Se déroule exclusivement autour de l'espace commerçant de Saint Philippe</Syst
 <System:Boolean>True</System:Boolean>
 </Enabled>
 <Actions>
+<Actions:DialogAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
+<Actions:DialogEntryAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Text>
+<Actions:ValueExpressionAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Value>
+<System:String>Bravo vous avez trouve la boite</System:String>
+</Value>
+</Actions:ValueExpressionAction>
+</Text>
+<Media>
+<Wherigo:WigoMedia xsi:nil="true" />
+</Media>
+</Actions:DialogEntryAction>
+</Actions>
+<Button1Text>
+<System:String xsi:nil="true" />
+</Button1Text>
+<Button2Text>
+<System:String xsi:nil="true" />
+</Button2Text>
+<ButtonClickedAction>
+<Actions:DoAction>
+<Enabled>
+<System:Boolean>True</System:Boolean>
+</Enabled>
+<Actions>
 <Actions:InputAction>
 <Enabled>
 <System:Boolean>True</System:Boolean>
@@ -3110,7 +3146,7 @@ Se déroule exclusivement autour de l'espace commerçant de Saint Philippe</Syst
 <Wherigo:WigoInputType>Number</Wherigo:WigoInputType>
 </InputType>
 <Choices>
-<System:String>1234</System:String>
+<System:String>5678</System:String>
 </Choices>
 <GetInputAction>
 <Actions:EventAction>
@@ -3418,6 +3454,13 @@ Se déroule exclusivement autour de l'espace commerçant de Saint Philippe</Syst
 </Actions:ObjectExpressionAction>
 </ContainerContent>
 </Actions:MoveAction>
+</Actions>
+</Actions:DoAction>
+</ButtonClickedAction>
+<Buffered>
+<System:Boolean>False</System:Boolean>
+</Buffered>
+</Actions:DialogAction>
 </Actions>
 <Owner>
 <Wherigo:WigoCommand xsi:nil="true" ref="key26" />
@@ -3778,7 +3821,7 @@ Il y a des oiseaux par ici...</System:String>
 <Wherigo:WigoInputType>Number</Wherigo:WigoInputType>
 </InputType>
 <Choices>
-<System:String>1234</System:String>
+<System:String>6543</System:String>
 </Choices>
 <GetInputAction>
 <Actions:EventAction>
@@ -4472,7 +4515,7 @@ C'est fleuri par ici, regardez dans votre inventaire ;-)</System:String>
 <Wherigo:WigoInputType>Number</Wherigo:WigoInputType>
 </InputType>
 <Choices>
-<System:String>1234</System:String>
+<System:String>5432</System:String>
 </Choices>
 <GetInputAction>
 <Actions:EventAction>
@@ -5836,7 +5879,7 @@ A partir de 3 géocaches trouvées, tu débloqueras une géocache surprise !</Sy
 <Wherigo:WigoInputType>Number</Wherigo:WigoInputType>
 </InputType>
 <Choices>
-<System:String>1234</System:String>
+<System:String>4321</System:String>
 </Choices>
 <GetInputAction>
 <Actions:EventAction>
