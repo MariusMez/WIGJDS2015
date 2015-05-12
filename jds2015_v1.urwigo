@@ -94,7 +94,7 @@ Se déroule exclusivement autour de l'espace commerçant de Saint Philippe</Syst
 </Wherigo:WigoCoordinate>
 </StartingLocation>
 <Version>
-<System:String>1.4</System:String>
+<System:String>1.5</System:String>
 </Version>
 <Company>
 <System:String>Jeux de Sophia</System:String>
@@ -106,7 +106,7 @@ Se déroule exclusivement autour de l'espace commerçant de Saint Philippe</Syst
 <System:DateTime>04/27/2015 10:30:07</System:DateTime>
 </CreateDate>
 <UpdateDate>
-<System:DateTime>05/12/2015 11:31:49</System:DateTime>
+<System:DateTime>05/12/2015 11:38:05</System:DateTime>
 </UpdateDate>
 <Complete>
 <System:Boolean>False</System:Boolean>
@@ -2336,40 +2336,40 @@ Se déroule exclusivement autour de l'espace commerçant de Saint Philippe</Syst
 <Points>
 <Wherigo:WigoCoordinate>
 <Latitude>
-<System:Double>43.6179966920624</System:Double>
+<System:Double>43.618436423358</System:Double>
 </Latitude>
 <Longtitude>
-<System:Double>7.07660990767324</System:Double>
+<System:Double>7.07669368746107</System:Double>
 </Longtitude>
 </Wherigo:WigoCoordinate>
 </Points>
 <Points>
 <Wherigo:WigoCoordinate>
 <Latitude>
-<System:Double>43.6179764059205</System:Double>
+<System:Double>43.6183952881015</System:Double>
 </Latitude>
 <Longtitude>
-<System:Double>7.07668696614264</System:Double>
+<System:Double>7.07687023442855</System:Double>
 </Longtitude>
 </Wherigo:WigoCoordinate>
 </Points>
 <Points>
 <Wherigo:WigoCoordinate>
 <Latitude>
-<System:Double>43.6178614509872</System:Double>
+<System:Double>43.618164714976</System:Double>
 </Latitude>
 <Longtitude>
-<System:Double>7.07663092361942</System:Double>
+<System:Double>7.07677753824814</System:Double>
 </Longtitude>
 </Wherigo:WigoCoordinate>
 </Points>
 <Points>
 <Wherigo:WigoCoordinate>
 <Latitude>
-<System:Double>43.6178783561382</System:Double>
+<System:Double>43.6182043647729</System:Double>
 </Latitude>
 <Longtitude>
-<System:Double>7.07656087046542</System:Double>
+<System:Double>7.07660014224102</System:Double>
 </Longtitude>
 </Wherigo:WigoCoordinate>
 </Points>
